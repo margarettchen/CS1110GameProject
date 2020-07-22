@@ -1,0 +1,15 @@
+Welcome to Bikini Bottom!
+This is a 2 player game, one will play as Squidward, and the other will play as Spongebob.
+Squidward's objective is to collect as many krabby patties as possible to boost his health.
+Spongebob's objective is to stop Squidward from stealing krabby patties by using his rocks.
+To control Squidward, use the left and right keys and space to jump.
+To control Spongebob, use 'a' for left and 'd' for right and 'w' to shoot.
+If the timer runs out, Squidward wins! If Squidward's health meter runs out, Spongebob wins!
+PRESS SPACE TO START
+
+Features we included:
+-enemies
+-collectables (krabby patties)
+-timer
+-health meter
+-two player simultaneously
